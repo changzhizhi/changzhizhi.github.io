@@ -341,30 +341,30 @@ Token颁发方的签名，用于客户端验证Token颁发方的身份，也用�
 </ul>
 <p>这些角色对资源的操作权限都可以映射到HTTP Verb上，如下表所示。</p>
 <table>
-<thead>
-<tr>
-<th>Role</th>
-<th>Resource</th>
-<th>Verbs</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>order_manager</td>
-<td>/orders</td>
-<td>&lsquo;GET&rsquo;   &lsquo;POST&rsquo;   &lsquo;PUT&rsquo;   &lsquo;DELETE&rsquo;</td>
-</tr>
-<tr>
-<td>order_editor</td>
-<td>/orders</td>
-<td>&lsquo;GET&rsquo;    &lsquo;POST&rsquo;    &lsquo;PUT&rsquo;</td>
-</tr>
-<tr>
-<td>order_inspector</td>
-<td>/orders</td>
-<td>&lsquo;GET&rsquo;</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th style="text-align: left">Role</th>
+          <th style="text-align: left">Resource</th>
+          <th style="text-align: left">Verbs</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">order_manager</td>
+          <td style="text-align: left">/orders</td>
+          <td style="text-align: left">&lsquo;GET&rsquo;   &lsquo;POST&rsquo;   &lsquo;PUT&rsquo;   &lsquo;DELETE&rsquo;</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">order_editor</td>
+          <td style="text-align: left">/orders</td>
+          <td style="text-align: left">&lsquo;GET&rsquo;    &lsquo;POST&rsquo;    &lsquo;PUT&rsquo;</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">order_inspector</td>
+          <td style="text-align: left">/orders</td>
+          <td style="text-align: left">&lsquo;GET&rsquo;</td>
+      </tr>
+  </tbody>
 </table>
 <p>这种实现方式在API Gateway处统一处理鉴权逻辑，各个微服务不需要考虑用户鉴权，只需要处理业务逻辑，简化了各微服务的实现。</p>
 <h4 id="由各个微服务单独进行权限控制">由各个微服务单独进行权限控制</h4>
@@ -433,6 +433,8 @@ Token颁发方的签名，用于客户端验证Token颁发方的身份，也用�
                         
                         
                         
+                        
+                        
                         <a href="/tags/docker" title="docker">
                             docker
                         </a>
@@ -444,6 +446,8 @@ Token颁发方的签名，用于客户端验证Token颁发方的身份，也用�
                         <a href="/tags/istio" title="istio">
                             istio
                         </a>
+                        
+                        
                         
                         
                         
