@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mars on 暢之之_Changzhi Jiang</title>
-    <link>https://changzhijiang528.github.io/tags/mars/</link>
+    <link>https://changzhizhi.github.io/tags/mars/</link>
     <description>Recent content in Mars on 暢之之_Changzhi Jiang</description>
     <generator>Hugo</generator>
     <language>zh-Ch</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://changzhijiang528.github.io/tags/mars/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://changzhizhi.github.io/tags/mars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>今日建站完成</title>
-      <link>https://changzhijiang528.github.io/2024/09/07/blog/</link>
+      <link>https://changzhizhi.github.io/2024/09/07/blog/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/2024/09/07/blog/</guid>
+      <guid>https://changzhizhi.github.io/2024/09/07/blog/</guid>
       <description>&lt;p&gt;go go go go&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first blog today</title>
-      <link>https://changzhijiang528.github.io/post/my-new-blog/</link>
+      <link>https://changzhizhi.github.io/post/my-new-blog/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/post/my-new-blog/</guid>
+      <guid>https://changzhizhi.github.io/post/my-new-blog/</guid>
       <description>&lt;p&gt;hi, i&amp;rsquo; m changzhi jiang&lt;/p&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
     </item>
   </channel>

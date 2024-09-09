@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>暢之之_Changzhi Jiang</title>
-    <link>https://changzhijiang528.github.io/</link>
+    <link>https://changzhizhi.github.io/</link>
     <description>Recent content on 暢之之_Changzhi Jiang</description>
     <generator>Hugo</generator>
     <language>zh-Ch</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://changzhijiang528.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://changzhizhi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>今日建站完成</title>
-      <link>https://changzhijiang528.github.io/2024/09/07/blog/</link>
+      <link>https://changzhizhi.github.io/2024/09/07/blog/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/2024/09/07/blog/</guid>
+      <guid>https://changzhizhi.github.io/2024/09/07/blog/</guid>
       <description>&lt;p&gt;go go go go&lt;/p&gt;</description>
     </item>
     <item>
       <title>My first blog today</title>
-      <link>https://changzhijiang528.github.io/post/my-new-blog/</link>
+      <link>https://changzhizhi.github.io/post/my-new-blog/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/post/my-new-blog/</guid>
+      <guid>https://changzhizhi.github.io/post/my-new-blog/</guid>
       <description>&lt;p&gt;hi, i&amp;rsquo; m changzhi jiang&lt;/p&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
     </item>
     <item>
       <title>谈谈微服务架构中的基础设施：Service Mesh与Istio</title>
-      <link>https://changzhijiang528.github.io/2018/03/29/what-is-service-mesh-and-istio/</link>
+      <link>https://changzhizhi.github.io/2018/03/29/what-is-service-mesh-and-istio/</link>
       <pubDate>Thu, 29 Mar 2018 12:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/2018/03/29/what-is-service-mesh-and-istio/</guid>
+      <guid>https://changzhizhi.github.io/2018/03/29/what-is-service-mesh-and-istio/</guid>
       <description>&lt;h2 id=&#34;微服务架构的演进12&#34;&gt;微服务架构的演进12&lt;/h2&gt;&#xA;&lt;p&gt;作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。&lt;/p&gt;&#xA;&lt;p&gt;另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to changzhizhi Blog</title>
-      <link>https://changzhijiang528.github.io/2003hello-world/</link>
+      <link>https://changzhizhi.github.io/2003hello-world/</link>
       <pubDate>Wed, 07 May 2003 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/2003hello-world/</guid>
+      <guid>https://changzhizhi.github.io/2003hello-world/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Yeah It&amp;rsquo;s on. ”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h2&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://changzhijiang528.github.io/about/</link>
+      <link>https://changzhizhi.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/about/</guid>
+      <guid>https://changzhizhi.github.io/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I am Changzhi Jiang, currently pursuing my undergraduate degree in Physics at the &lt;a href=&#34;https://ias.szu.edu.cn/&#34;&gt;Institute for Advanced Study, Shenzhen University&lt;/a&gt;, under the supervision of &lt;a href=&#34;https://ias.szu.edu.cn/info/1046/2793.htm&#34;&gt;Researcher Chunyu Ding&lt;/a&gt;. My research focuses on radar detection, water ice, and habitability in the landing area of Mars&amp;rsquo; Tianwen-1 mission. I have authored two papers (one in &lt;em&gt;Space Science Reviews&lt;/em&gt; and another under review in &lt;em&gt;Nature Astronomy&lt;/em&gt;) as the first author, and contributed to four additional papers published or under review in prestigious journals such as &lt;em&gt;Remote Sensing&lt;/em&gt;, &lt;em&gt;The Astronomical Journal&lt;/em&gt;, and &lt;em&gt;Icarus&lt;/em&gt;. I am currently leading or participating in two national-level Undergraduate Innovation and Entrepreneurship Training Program projects, one Innovative Practice Training Project of the Chinese Academy of Sciences, one research project supported by the Institute for Advanced Study, and one Shenzhen University Student Innovation and Development Fund project. During my undergraduate studies, I led a team that received a Finalist award (top 1% worldwide) in the Mathematical Contest in Modeling (MCM) and won over 20 honors and awards, including second place in the National University Physics Experiment Competition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Posts Archive</title>
-      <link>https://changzhijiang528.github.io/archive/</link>
+      <link>https://changzhizhi.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://changzhijiang528.github.io/archive/</guid>
+      <guid>https://changzhizhi.github.io/archive/</guid>
       <description></description>
     </item>
   </channel>
