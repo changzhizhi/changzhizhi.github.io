@@ -9,6 +9,27 @@
     <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://changzhizhi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Modeling</title>
+      <link>https://changzhizhi.github.io/tags/modeling/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://changzhizhi.github.io/tags/modeling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planetary Science</title>
+      <link>https://changzhizhi.github.io/tags/planetary-science/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://changzhizhi.github.io/tags/planetary-science/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spectrum</title>
+      <link>https://changzhizhi.github.io/tags/spectrum/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://changzhizhi.github.io/tags/spectrum/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>冬令营</title>
       <link>https://changzhizhi.github.io/tags/%E5%86%AC%E4%BB%A4%E8%90%A5/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
@@ -23,13 +44,6 @@
       <description></description>
     </item>
     <item>
-      <title>旅途</title>
-      <link>https://changzhizhi.github.io/tags/%E6%97%85%E9%80%94/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://changzhizhi.github.io/tags/%E6%97%85%E9%80%94/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>暑校</title>
       <link>https://changzhizhi.github.io/tags/%E6%9A%91%E6%A0%A1/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
@@ -37,17 +51,17 @@
       <description></description>
     </item>
     <item>
-      <title>占星术</title>
-      <link>https://changzhizhi.github.io/tags/%E5%8D%A0%E6%98%9F%E6%9C%AF/</link>
+      <title>Astrology</title>
+      <link>https://changzhizhi.github.io/tags/astrology/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://changzhizhi.github.io/tags/%E5%8D%A0%E6%98%9F%E6%9C%AF/</guid>
+      <guid>https://changzhizhi.github.io/tags/astrology/</guid>
       <description></description>
     </item>
     <item>
-      <title>天文学</title>
-      <link>https://changzhizhi.github.io/tags/%E5%A4%A9%E6%96%87%E5%AD%A6/</link>
+      <title>Astronomy</title>
+      <link>https://changzhizhi.github.io/tags/astronomy/</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://changzhizhi.github.io/tags/%E5%A4%A9%E6%96%87%E5%AD%A6/</guid>
+      <guid>https://changzhizhi.github.io/tags/astronomy/</guid>
       <description></description>
     </item>
   </channel>

@@ -76,6 +76,43 @@
     <script src="https://changzhizhi.github.io/js/main.js"></script>
     
 
+    <script type="text/javascript"
+        async
+        src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[\[','\]\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+
+MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+});
+</script>
+
+<style>
+code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #515151;
+}
+</style>
+
+
 </head>
 
 
@@ -106,6 +143,10 @@
                         <a href="/">所有帖子_All Posts</a>
                     </li>
                     
+                        
+                        <li>
+                            <a href="/categories/%E5%AD%A6%E4%B9%A0_study/">学习_study</a>
+                        </li>
                         
                         <li>
                             <a href="/categories/%E7%94%9F%E6%B4%BB_life/">生活_life</a>
@@ -340,28 +381,28 @@
             
             
                
+                    <a href="/tags/astrology" title="astrology">
+                        astrology
+                    </a>
+               
             
                
-                    <a href="/tags/%E5%8D%A0%E6%98%9F%E6%9C%AF" title="占星术">
-                        占星术
+                    <a href="/tags/astronomy" title="astronomy">
+                        astronomy
                     </a>
+               
+            
+               
+            
+               
+            
+               
+            
                
             
                
                     <a href="/tags/%E5%A4%8F%E4%BB%A4%E8%90%A5" title="夏令营">
                         夏令营
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E5%A4%A9%E6%96%87%E5%AD%A6" title="天文学">
-                        天文学
-                    </a>
-               
-            
-               
-                    <a href="/tags/%E6%97%85%E9%80%94" title="旅途">
-                        旅途
                     </a>
                
             
